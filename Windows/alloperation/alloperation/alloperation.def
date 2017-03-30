@@ -1,0 +1,12 @@
+LIBRARY alloperation
+EXPORTS
+	GETFILENAME @1
+    GETFILESAVE @2
+    GETCREATEFILE @3
+    GETOPENFILE @4
+    GETDIRECTORYROOT @5
+	createfile @6
+	openfile @7
+	fileoperation @8
+	diroperation @9	
+    GETDIRECTORYROOTEN @10

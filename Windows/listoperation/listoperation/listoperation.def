@@ -1,0 +1,8 @@
+LIBRARY listoperation
+EXPORTS
+		itListViewImageLists @1
+		itListViewColumns @2
+		itaddListViewItems @3
+		itGetImageList @4
+		GetTextOnEdit @5
+		search @6
